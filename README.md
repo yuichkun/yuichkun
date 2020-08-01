@@ -1,1 +1,1 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yuichkun)](https://github.com/anuraghazra/github-readme-stats)
+[![Yuichi Yogo's github stats](https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
