@@ -1,5 +1,16 @@
+## GitHub Stats
+
 [![Yuichi Yogo's github stats](https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+## Medium
+
 [![Yuichi Yogo Medium](https://github-readme-medium.vercel.app/?username=yuichkun)](https://medium.com/@yuichkun)
+
+## Speaking Languages
+
+    🇯🇵Japanese  ████████████████████ Native  
+    🇬🇧English   ██████████████████░░ Proficient  
+    🇨🇳Chinese   ████████████░░░░░░░░ Intermediate  
 
 ## Development Environments
 
