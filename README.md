@@ -10,9 +10,9 @@ Also, I'm an enthusiastic [Node for Max](https://cycling74.com/articles/node-for
 
 ## Music written with the aid of coding
 
-[![Quantization](quantization.png)](https://www.youtube.com/watch?v=BfuqA2U1WvQ)
+[![Quantization](https://raw.githubusercontent.com/yuichkun/yuichkun/master/quantization.png)](https://www.youtube.com/watch?v=BfuqA2U1WvQ)
 
-[![Pianoid II](pianoid-ii.png)](https://www.youtube.com/watch?v=56ylqLaRp0c)
+[![Pianoid II](https://raw.githubusercontent.com/yuichkun/yuichkun/master/pianoid-ii.png)](https://www.youtube.com/watch?v=56ylqLaRp0c)
 
 ## Speaking Languages
 
