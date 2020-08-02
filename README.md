@@ -1,10 +1,18 @@
-## GitHub Stats
+## Hello, I'm Yuichi Yogo 👋
 
-[![Yuichi Yogo's github stats](https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
 
-## Medium
+I'm a musician and self-employed software engineer living in Tokyo.  
+While the majority of my recent works are in the field of web development,  
+I love hacking music with the power of algorithms.
 
-[![Yuichi Yogo Medium](https://github-readme-medium.vercel.app/?username=yuichkun)](https://medium.com/@yuichkun)
+Also, I'm an enthusiastic [Node for Max](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started) developer!
+
+## Music written with the aid of coding
+
+[![Quantization](quantization.png)](https://www.youtube.com/watch?v=BfuqA2U1WvQ)
+
+[![Pianoid II](pianoid-ii.png)](https://www.youtube.com/watch?v=56ylqLaRp0c)
 
 ## Speaking Languages
 
@@ -159,3 +167,12 @@
     </tr>
   </tbody>
 </table>
+
+## Medium
+
+[![Yuichi Yogo Medium](https://github-readme-medium.vercel.app/?username=yuichkun)](https://medium.com/@yuichkun)
+
+## Contact
+
+- Twitter: [![Twitter](https://img.shields.io/badge/@yuichi_yogo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yuichi_yogo) 
+- Email:   [![Email](https://img.shields.io/badge/yuichi.yogo.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuichi.yogo.official@gmail.com)
