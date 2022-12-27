@@ -1,183 +1,87 @@
-## Hello, I'm Yuichi Yogo 👋
+# Hello, I'm Yuichi Yogo 👋
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/yuichkun" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.61&b=3.67&i=3.66&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
 Last Updated on 12/27/2022, 3:41:39 PM
 <!--END_SECTION:lapras-card-->
 
-<img src="https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
+I'm <b>Yuichi</b>, a musician / fullstack web engineer currently living in Tokyo, 🇯🇵.
 
-I'm a musician and self-employed software engineer living in Tokyo.  
-While the majority of my recent works are in the field of web development,  
-I love hacking music with the power of algorithms.
+## Languages I speak
 
-Also, I'm an enthusiastic [Node for Max](https://cycling74.com/articles/node-for-max-intro-%E2%80%93-let%E2%80%99s-get-started) developer!
+    🇯🇵 Japanese  ████████████████████ Native
+    🇬🇧 English   ██████████████████░░ Proficient
+    🇨🇳 Chinese   █████████████░░░░░░░ Intermediate
+    🇰🇷 Korean    ██████░░░░░░░░░░░░░░ Elementary
 
-## Music written with the aid of coding
+## Things I code with
 
-[![Quantization](https://raw.githubusercontent.com/yuichkun/yuichkun/master/quantization.png)](https://www.youtube.com/watch?v=BfuqA2U1WvQ)
+<br/>
 
-[![Pianoid II](https://raw.githubusercontent.com/yuichkun/yuichkun/master/pianoid-ii.png)](https://www.youtube.com/watch?v=56ylqLaRp0c)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff&style=flat-square" alt="Deno Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat-square" alt="Ruby Badge"><br/>
 
-## Speaking Languages
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
+  <img src="https://img.shields.io/badge/WebGL-900?logo=webgl&logoColor=fff&style=flat-square" alt="WebGL Badge"><br/>
 
-    🇯🇵 Japanese  ████████████████████ Native  
-    🇬🇧 English   ██████████████████░░ Proficient  
-    🇨🇳 Chinese   ████████████░░░░░░░░ Intermediate  
-    🇩🇪 German    ██░░░░░░░░░░░░░░░░░░ Beginner  
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" alt="Vue.js Badge">
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat-square" alt="Svelte Badge">
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge"><br/>
 
-## Development Environments
+  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=flat-square" alt="Apollo GraphQL Badge">
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat-square" alt="Swagger Badge">
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square" alt="Jest Badge">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge"><br/>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ruby</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Visual Studio Code</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Docker</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CircleCI</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/circleci.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat-square" alt="NestJS Badge">
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=flat-square" alt="Ruby on Rails Badge">
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django Badge"><br/>
 
-## Web Frontend
+  <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat-square" alt="Electron Badge"><br/>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>React.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Vue.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>CSS 3</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Gatsby.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Next.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Apollo GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square" alt="Adobe Photoshop Badge">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat-square" alt="Adobe XD Badge">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" alt="Figma Badge"><br/>
 
-## Web Backend
+  <img src="https://img.shields.io/badge/Max-525252?logo=max&logoColor=fff&style=flat-square" alt="Max Badge">
+  <img src="https://img.shields.io/badge/Processing-069?logo=processingfoundation&logoColor=fff&style=flat-square" alt="Processing Foundation Badge"><br/>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Express.js</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/express.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Nest.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Ruby on Rails</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/rails.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Swagger</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/swagger.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>GraphQL</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <img src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square" alt="macOS Badge">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" alt="Visual Studio Code Badge">
+  <img src="https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=fff&style=flat-square" alt="Conventional Commits Badge">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge"><br/>
 
-## Infrastructure
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat-square" alt="Terraform Badge">
+  <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=flat-square" alt="Datadog Badge">
+  <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat-square" alt="Sentry Badge">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat-square" alt="Amazon AWS Badge">
+  <img src="https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=fff&style=flat-square" alt="Vercel Badge">
+  <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff&style=flat-square" alt="CircleCI Badge">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square" alt="Firebase Badge">
+<br/>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>AWS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Firebase</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Terraform</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Where to find me
 
-## Creative Coding
+<br/>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Processing</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/processing.png">
-      </td>
-      <td width="25%" align="center">
-        <span>Max 8</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/max8.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>Opusmodus</span><br><br><br>
-        <img height="64px" src="https://raw.githubusercontent.com/yuichkun/yuichkun/master/logos/opusmodus.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p>
+<a href="https://github.com/yuichkun" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://www.tiktok.com/@dododo_japan" target="_blank"><img src="https://img.shields.io/badge/TikTok-000?logo=tiktok&logoColor=fff&style=for-the-badge" alt="TikTok Badge">
+</a>
+<a href="https://www.instagram.com/yuichi_yogo/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge" alt="Instagram Badge">
+</a>
+<a href="https://twitter.com/yogo_yuichi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-ja-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://twitter.com/yuichi_yogo" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-en-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://medium.com/@yuichkun" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
 
-## Medium
+<br/>
 
-[![Yuichi Yogo Medium](https://github-readme-medium.vercel.app/?username=yuichkun)](https://medium.com/@yuichkun)
-
-## Contact
-
-- Twitter: [![Twitter](https://img.shields.io/badge/@yuichi_yogo-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yuichi_yogo) 
-- Email:   [![Email](https://img.shields.io/badge/yuichi.yogo.official@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yuichi.yogo.official@gmail.com)
+This README is inspired by [thmsgbrt](https://github.com/thmsgbrt/thmsgbrt)'s README.  
+Thank you so much <b>thmsgbrt</b>!🎉
