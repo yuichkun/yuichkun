@@ -7,6 +7,7 @@ Last Updated on 12/27/2022, 3:41:39 PM
 
 I'm <b>Yuichi</b>, a musician / fullstack web engineer currently living in Tokyo, 🇯🇵.
 
+Also, I run a company called [Yogo Management Office, LLC](https://yogo-management-office.com/).
 ## Languages I speak
 
     🇯🇵 Japanese  ████████████████████ Native
