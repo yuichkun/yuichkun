@@ -1,5 +1,8 @@
 ## Hello, I'm Yuichi Yogo 👋
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 <img src="https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
 
 I'm a musician and self-employed software engineer living in Tokyo.  
