@@ -23,39 +23,30 @@ I'm <b>Yuichi</b>, a musician / fullstack web engineer currently living in Tokyo
   <img src="https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff&style=flat-square" alt="Deno Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
   <img src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat-square" alt="Ruby Badge"><br/>
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat-square" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/WebGL-900?logo=webgl&logoColor=fff&style=flat-square" alt="WebGL Badge"><br/>
-
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat-square" alt="React Badge">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat-square" alt="Vue.js Badge">
   <img src="https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=fff&style=flat-square" alt="Svelte Badge">
   <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square" alt="Next.js Badge"><br/>
-
   <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff&style=flat-square" alt="Apollo GraphQL Badge">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=flat-square" alt="Swagger Badge">
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff&style=flat-square" alt="Jest Badge">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square" alt="Tailwind CSS Badge"><br/>
-
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=fff&style=flat-square" alt="NestJS Badge">
   <img src="https://img.shields.io/badge/Ruby%20on%20Rails-C00?logo=rubyonrails&logoColor=fff&style=flat-square" alt="Ruby on Rails Badge">
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat-square" alt="Django Badge"><br/>
-
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff&style=flat-square" alt="Electron Badge"><br/>
-
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat-square" alt="Adobe Photoshop Badge">
   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?logo=adobexd&logoColor=fff&style=flat-square" alt="Adobe XD Badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat-square" alt="Figma Badge"><br/>
-
   <img src="https://img.shields.io/badge/Max-525252?logo=max&logoColor=fff&style=flat-square" alt="Max Badge">
   <img src="https://img.shields.io/badge/Processing-069?logo=processingfoundation&logoColor=fff&style=flat-square" alt="Processing Foundation Badge"><br/>
-
   <img src="https://img.shields.io/badge/macOS-000?logo=macos&logoColor=fff&style=flat-square" alt="macOS Badge">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat-square" alt="Visual Studio Code Badge">
   <img src="https://img.shields.io/badge/Conventional%20Commits-FE5196?logo=conventionalcommits&logoColor=fff&style=flat-square" alt="Conventional Commits Badge">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat-square" alt="Docker Badge"><br/>
-
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat-square" alt="Terraform Badge">
   <img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=flat-square" alt="Datadog Badge">
   <img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat-square" alt="Sentry Badge">
