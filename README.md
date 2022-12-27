@@ -1,6 +1,8 @@
 ## Hello, I'm Yuichi Yogo 👋
 
 <!--START_SECTION:lapras-card-->
+<a href="https://lapras.com/public/yuichkun" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.61&b=3.67&i=3.66&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
+Last Updated on 12/27/2022, 3:41:39 PM
 <!--END_SECTION:lapras-card-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=yuichkun&count_private=true&show_icons=true&theme=dracula&hide=issues,contribs" />
