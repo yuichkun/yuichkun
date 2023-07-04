@@ -2,7 +2,7 @@
 
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/yuichkun" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.84&b=3.67&i=3.64&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
-Last Updated on 7/3/2023, 12:13:12 AM
+Last Updated on 7/4/2023, 12:13:19 AM
 <!--END_SECTION:lapras-card-->
 
 I'm <b>Yuichi</b>, a musician / fullstack web engineer currently living in Tokyo, 🇯🇵.
