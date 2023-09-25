@@ -1,8 +1,8 @@
 # Hello, I'm Yuichi Yogo 👋
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/yuichkun" target="_blank" rel="noopener noreferrer"><img alt="yuichkunのLAPRASでのスコアは次の通りです: エンジニアリング: 3.99 / 5.0, ビジネス: 3.67 / 5.0, インフルエンス: 3.64 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.99&b=3.67&i=3.64&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
-Last Updated on 9/24/2023, 12:11:37 AM</p>
+<p ><a href="https://lapras.com/public/yuichkun" target="_blank" rel="noopener noreferrer"><img alt="yuichkunのLAPRASでのスコアは次の通りです: エンジニアリング: 3.96 / 5.0, ビジネス: 3.67 / 5.0, インフルエンス: 3.59 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.96&b=3.67&i=3.59&b1=%23000000&b2=%23cc0000&i1=%23212121&i2=%23666666&l=ja" width="400" ></a>  
+Last Updated on 9/25/2023, 12:10:46 AM</p>
 <!--END_SECTION:lapras-card-->
 
 I'm <b>Yuichi</b>, a musician / fullstack web engineer currently living in Tokyo, 🇯🇵.
